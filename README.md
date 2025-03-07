@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sasquatch3663
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python
+- 👀 I’m learning and working with AI and ML
+- 🌱 Completed Python and using on various projects
+
 
 
 <!---
